@@ -1,0 +1,5 @@
+[internetweb]
+serverb.lab.example.com
+
+[intranetweb]
+servera.lab.example.com
